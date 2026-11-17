@@ -1,4 +1,4 @@
-# Zervo
+# Zevro
 
 An integrated B2B and B2C workforce marketplace and on-demand local services platform connecting gig workers, dark stores, logistics operators, and service professionals.
 
